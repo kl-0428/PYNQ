@@ -1,0 +1,3 @@
+board = Pynq-Z2
+date  = 14 June 2021
+version = 0.9.0
